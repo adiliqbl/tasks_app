@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
       create: (context) => TaskModel(),
       child: MaterialApp(
         title: 'Tasks',
-        theme: ThemeData.dark(),
+        theme: ThemeData.light(),
         home: HomePage(),
       ),
     );
