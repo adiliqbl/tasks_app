@@ -1,6 +1,6 @@
-# todo
+# Tasks
 
-Todo application built with Flutter.
+Tasks application built with Flutter using Provider pattern to manage the app state. Special thanks to https://github.com/shakib609/todos-flutter for a tutorial to get quickly get started with Flutter.
 
 ## Getting Started
 
